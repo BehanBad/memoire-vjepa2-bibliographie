@@ -14,7 +14,7 @@ Suivi bibliographique pour le mémoire "V-JEPA 2-AC for the Aerial Viewpoint: Im
 
 | Source et lien | Statut | Retenu? |
 | --- | --- | --- |
-| [I-JEPA — Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243) | À lire | — |
+| [I-JEPA — Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243) | En cours | — |
 | [V-JEPA 2 — Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | À lire | — |
 | [LeWorldModel](https://arxiv.org/abs/2603.19312) | À lire | — |
 | [SkyJEPA](https://arxiv.org/abs/2606.23444) | À lire | — |
@@ -23,11 +23,11 @@ Suivi bibliographique pour le mémoire "V-JEPA 2-AC for the Aerial Viewpoint: Im
 | [WAM-Nav](https://arxiv.org/abs/2606.04907) | À lire | — |
 | [OpenFly](https://arxiv.org/abs/2502.18041) | À lire | — |
 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf) | À lire | — |
-| [V-JEPA — Revisiting Feature Prediction for Learning Visual Representations from Video](https://arxiv.org/abs/2404.08471) | À lire | — |
+| [V-JEPA — Revisiting Feature Prediction for Learning Visual Representations from Video](https://arxiv.org/abs/2404.08471) | En cours | — |
 | [Navigation World Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Bar_Navigation_World_Models_CVPR_2025_paper.pdf) | À lire | — |
 | [ViNT — A Foundation Model for Visual Navigation](https://arxiv.org/abs/2306.14846) | À lire | — |
 | [NoMaD — Goal Masked Diffusion Policies for Navigation and Exploration](https://arxiv.org/abs/2310.07896) | À lire | — |
-| [PETS — Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114) | À lire | — |
+| [PETS — Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114) | En cours | — |
 | [MPPI — Model Predictive Path Integral Control using Covariance Variable Importance Sampling](https://arxiv.org/abs/1509.01149) | À lire | — |
 | [PlaNet — Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) | À lire | — |
 | [WorldVLN](https://arxiv.org/abs/2605.15964) | À lire | — |
