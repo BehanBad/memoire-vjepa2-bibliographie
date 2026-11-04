@@ -14,7 +14,7 @@ Suivi bibliographique pour le mémoire "V-JEPA 2-AC for the Aerial Viewpoint: Im
 
 | Source et lien | Statut | Retenu? |
 | --- | --- | --- |
-| [I-JEPA — Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243) | En cours | — |
+| [I-JEPA — Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243) | Lu | Oui |
 | [V-JEPA 2 — Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | À lire | — |
 | [LeWorldModel](https://arxiv.org/abs/2603.19312) | À lire | — |
 | [SkyJEPA](https://arxiv.org/abs/2606.23444) | À lire | — |
